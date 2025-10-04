@@ -1,0 +1,12 @@
+C:\Users\Artur\Desktop\SistVentas\SistVentas\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Artur\Desktop\SistVentas\SistVentas\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Artur\Desktop\SistVentas\SistVentas\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Artur\Desktop\SistVentas\SistVentas\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\SistVentas\SistVentas\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Artur\Desktop\SistVentas\SistVentas\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Artur\Desktop\SisVentas\SisVentas\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Artur\Desktop\SisVentas\SisVentas\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Artur\Desktop\SisVentas\SisVentas\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Artur\Desktop\SisVentas\SisVentas\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\SisVentas\SisVentas\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Artur\Desktop\SisVentas\SisVentas\CapaEntidades\obj\Debug\CapaEntidades.pdb

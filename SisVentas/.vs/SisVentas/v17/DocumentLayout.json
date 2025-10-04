@@ -1,0 +1,857 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\reportes\\frmreportecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\reportes\\frmreportecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\procesos\\frmregistrarcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\procesos\\frmregistrarcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\procesos\\frmregistrarcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\procesos\\frmregistrarcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\artur\\desktop\\sisventas\\sisventas\\capapresentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\reportes\\frmreportecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\reportes\\frmreportecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723609FF-58C6-462B-BA57-C1D9E186BE4D}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capadatos\\cd_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723609FF-58C6-462B-BA57-C1D9E186BE4D}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F7BE0-4345-4410-86BF-360BDE86B8CE}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capanegocio\\cn_compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7F7BE0-4345-4410-86BF-360BDE86B8CE}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F7BE0-4345-4410-86BF-360BDE86B8CE}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capanegocio\\cn_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7F7BE0-4345-4410-86BF-360BDE86B8CE}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\mantenimiento\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\mantenimiento\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\mantenimiento\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\mantenimiento\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capaentidades\\reporteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\reporteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capaentidades\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capaentidades\\reportecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\reportecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capaentidades\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capaentidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capaentidades\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capaentidades\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capaentidades\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capaentidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capaentidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7565C1E-83AB-4443-BAB6-19B7BE5FB5A5}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\seguridad\\frmpermisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\seguridad\\frmpermisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\seguridad\\frmpermisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\seguridad\\frmpermisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\seguridad\\frmroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\seguridad\\frmroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\seguridad\\frmroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\seguridad\\frmroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\seguridad\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\seguridad\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\seguridad\\frmpermisos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\seguridad\\frmpermisos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\modales\\mdlseleccionarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdlseleccionarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\modales\\mdlseleccionarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdlseleccionarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\modales\\mdlseleccionarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdlseleccionarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\mantenimiento\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\mantenimiento\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\mantenimiento\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\mantenimiento\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\mantenimiento\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\mantenimiento\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\procesos\\frmregistrarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\procesos\\frmregistrarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\reportes\\frmreporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\reportes\\frmreporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F7BE0-4345-4410-86BF-360BDE86B8CE}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capanegocio\\cn_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7F7BE0-4345-4410-86BF-360BDE86B8CE}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F7BE0-4345-4410-86BF-360BDE86B8CE}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capanegocio\\cn_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7F7BE0-4345-4410-86BF-360BDE86B8CE}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\mantenimiento\\frmproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\mantenimiento\\frmproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\procesos\\frmregistrarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\procesos\\frmregistrarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\seguridad\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\seguridad\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\mantenimiento\\frmcategorias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\mantenimiento\\frmcategorias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\mantenimiento\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\mantenimiento\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\reportes\\frmreporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\reportes\\frmreporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723609FF-58C6-462B-BA57-C1D9E186BE4D}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capadatos\\cd_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723609FF-58C6-462B-BA57-C1D9E186BE4D}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F7BE0-4345-4410-86BF-360BDE86B8CE}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capanegocio\\cn_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7F7BE0-4345-4410-86BF-360BDE86B8CE}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723609FF-58C6-462B-BA57-C1D9E186BE4D}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capadatos\\cd_compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723609FF-58C6-462B-BA57-C1D9E186BE4D}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723609FF-58C6-462B-BA57-C1D9E186BE4D}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capadatos\\cd_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723609FF-58C6-462B-BA57-C1D9E186BE4D}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F7BE0-4345-4410-86BF-360BDE86B8CE}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capanegocio\\cn_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7F7BE0-4345-4410-86BF-360BDE86B8CE}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\reportes\\frmreporteventas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\reportes\\frmreporteventas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\capapresentacion\\procesos\\frmregistrarventa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0F16F7-3B7D-4FE6-AD0C-CEC0D435D6EC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\procesos\\frmregistrarventa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmReporteCompras.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Reportes\\frmReporteCompras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Reportes\\frmReporteCompras.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Reportes\\frmReporteCompras.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Reportes\\frmReporteCompras.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T18:58:18.065Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmReporteCompras.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Reportes\\frmReporteCompras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Reportes\\frmReporteCompras.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Reportes\\frmReporteCompras.cs",
+              "RelativeToolTip": "CapaPresentacion\\Reportes\\frmReporteCompras.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAvwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:37:56.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmRegistrarCompra.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Procesos\\frmRegistrarCompra.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Procesos\\frmRegistrarCompra.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Procesos\\frmRegistrarCompra.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Procesos\\frmRegistrarCompra.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T20:01:49Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmRegistrarCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Procesos\\frmRegistrarCompra.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Procesos\\frmRegistrarCompra.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Procesos\\frmRegistrarCompra.cs",
+              "RelativeToolTip": "CapaPresentacion\\Procesos\\frmRegistrarCompra.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAvwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T20:01:50.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\frmPrincipal.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\frmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:13:59.34Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\frmPrincipal.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:20:30.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CD_Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaDatos\\CD_Producto.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Producto.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaDatos\\CD_Producto.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Producto.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAwwHcAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T20:39:20.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CN_Compra.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaNegocio\\CN_Compra.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Compra.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaNegocio\\CN_Compra.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Compra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:05:19.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CN_Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaNegocio\\CN_Producto.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Producto.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaNegocio\\CN_Producto.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Producto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T20:37:17.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Mantenimiento\\frmProductos.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Mantenimiento\\frmProductos.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Mantenimiento\\frmProductos.cs",
+              "RelativeToolTip": "CapaPresentacion\\Mantenimiento\\frmProductos.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAADwv5wAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T20:26:38.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmProductos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Mantenimiento\\frmProductos.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Mantenimiento\\frmProductos.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Mantenimiento\\frmProductos.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Mantenimiento\\frmProductos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T20:07:10.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReporteVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\ReporteVenta.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\ReporteVenta.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\ReporteVenta.cs",
+              "RelativeToolTip": "CapaEntidades\\ReporteVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:05:51.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\Venta.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\Venta.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\Venta.cs",
+              "RelativeToolTip": "CapaEntidades\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:54:32.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReporteCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\ReporteCompra.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\ReporteCompra.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\ReporteCompra.cs",
+              "RelativeToolTip": "CapaEntidades\\ReporteCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:05:43.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\Proveedor.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\Proveedor.cs",
+              "RelativeToolTip": "CapaEntidades\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:54:14.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\Producto.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\Producto.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\Producto.cs",
+              "RelativeToolTip": "CapaEntidades\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:54:06.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\DetalleVenta.cs",
+              "RelativeToolTip": "CapaEntidades\\DetalleVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:54:02.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DetalleCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\DetalleCompra.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\DetalleCompra.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\DetalleCompra.cs",
+              "RelativeToolTip": "CapaEntidades\\DetalleCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:53:55.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\Compra.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\Compra.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\Compra.cs",
+              "RelativeToolTip": "CapaEntidades\\Compra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:53:52.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\Cliente.cs",
+              "RelativeToolTip": "CapaEntidades\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:53:49.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaEntidades\\Categoria.cs",
+              "RelativeToolTip": "CapaEntidades\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:53:44.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmPermisos.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Seguridad\\frmPermisos.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Seguridad\\frmPermisos.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Seguridad\\frmPermisos.cs",
+              "RelativeToolTip": "CapaPresentacion\\Seguridad\\frmPermisos.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:21:41.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmPermisos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Seguridad\\frmPermisos.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Seguridad\\frmPermisos.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Seguridad\\frmPermisos.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Seguridad\\frmPermisos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:53:58.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Seguridad\\frmRoles.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Seguridad\\frmRoles.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Seguridad\\frmRoles.cs",
+              "RelativeToolTip": "CapaPresentacion\\Seguridad\\frmRoles.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:19:34.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmPermisos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Seguridad\\frmPermisos.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Seguridad\\frmPermisos.Designer.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Seguridad\\frmPermisos.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\Seguridad\\frmPermisos.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:16:25.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmRoles.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Seguridad\\frmRoles.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Seguridad\\frmRoles.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Seguridad\\frmRoles.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Seguridad\\frmRoles.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:53:59.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmUsuarios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Seguridad\\frmUsuarios.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Seguridad\\frmUsuarios.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Seguridad\\frmUsuarios.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Seguridad\\frmUsuarios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:39:59.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "mdlSeleccionarCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Modales\\mdlSeleccionarCliente.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdlSeleccionarCliente.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Modales\\mdlSeleccionarCliente.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdlSeleccionarCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T20:13:20.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "mdlSeleccionarProveedor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Modales\\mdlSeleccionarProveedor.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdlSeleccionarProveedor.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Modales\\mdlSeleccionarProveedor.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdlSeleccionarProveedor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T20:13:48.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "mdlSeleccionarProducto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Modales\\mdlSeleccionarProducto.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdlSeleccionarProducto.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Modales\\mdlSeleccionarProducto.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdlSeleccionarProducto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T20:13:22.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmCategorias.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Mantenimiento\\frmCategorias.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Mantenimiento\\frmCategorias.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Mantenimiento\\frmCategorias.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Mantenimiento\\frmCategorias.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T20:13:14.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmClientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Mantenimiento\\frmClientes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Mantenimiento\\frmClientes.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Mantenimiento\\frmClientes.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Mantenimiento\\frmClientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T20:07:11.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmProveedores.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Mantenimiento\\frmProveedores.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Mantenimiento\\frmProveedores.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Mantenimiento\\frmProveedores.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Mantenimiento\\frmProveedores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:14:35.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmRegistrarVenta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Procesos\\frmRegistrarVenta.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Procesos\\frmRegistrarVenta.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Procesos\\frmRegistrarVenta.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Procesos\\frmRegistrarVenta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T18:54:51.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmReporteVentas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Reportes\\frmReporteVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Reportes\\frmReporteVentas.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Reportes\\frmReporteVentas.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Reportes\\frmReporteVentas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T18:54:50.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Program.cs",
+              "RelativeToolTip": "CapaPresentacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T05:23:22.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CN_Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaNegocio\\CN_Proveedor.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Proveedor.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaNegocio\\CN_Proveedor.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Proveedor.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAG8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:49:19.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\frmLogin.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\frmLogin.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T05:23:13.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\frmLogin.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\frmLogin.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T05:23:16.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmProductos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Mantenimiento\\frmProductos.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Mantenimiento\\frmProductos.Designer.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Mantenimiento\\frmProductos.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\Mantenimiento\\frmProductos.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T20:11:26.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CN_Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaNegocio\\CN_Cliente.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Cliente.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaNegocio\\CN_Cliente.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Cliente.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAUwF4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:43:14.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmRegistrarVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Procesos\\frmRegistrarVenta.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Procesos\\frmRegistrarVenta.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Procesos\\frmRegistrarVenta.cs",
+              "RelativeToolTip": "CapaPresentacion\\Procesos\\frmRegistrarVenta.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAowBABAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:10:50.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Seguridad\\frmUsuarios.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Seguridad\\frmUsuarios.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Seguridad\\frmUsuarios.cs",
+              "RelativeToolTip": "CapaPresentacion\\Seguridad\\frmUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:40:06.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmCategorias.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Mantenimiento\\frmCategorias.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Mantenimiento\\frmCategorias.Designer.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Mantenimiento\\frmCategorias.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\Mantenimiento\\frmCategorias.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:30:49.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Mantenimiento\\frmCategorias.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Mantenimiento\\frmCategorias.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Mantenimiento\\frmCategorias.cs",
+              "RelativeToolTip": "CapaPresentacion\\Mantenimiento\\frmCategorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:30:07.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmReporteVentas.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Reportes\\frmReporteVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Reportes\\frmReporteVentas.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Reportes\\frmReporteVentas.cs",
+              "RelativeToolTip": "CapaPresentacion\\Reportes\\frmReporteVentas.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:18:03.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CD_Compra.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaDatos\\CD_Compra.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Compra.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaDatos\\CD_Compra.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Compra.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAJIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:04:57.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CD_Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaDatos\\CD_Reporte.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Reporte.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaDatos\\CD_Reporte.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Reporte.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:09:48.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CN_Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaNegocio\\CN_Venta.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Venta.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaNegocio\\CN_Venta.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:10:05.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CD_Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaDatos\\CD_Venta.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Venta.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaDatos\\CD_Venta.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Venta.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:08:52.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CN_Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaNegocio\\CN_Reporte.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Reporte.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaNegocio\\CN_Reporte.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Reporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:10:14.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "frmReporteVentas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Reportes\\frmReporteVentas.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Reportes\\frmReporteVentas.Designer.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Reportes\\frmReporteVentas.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\Reportes\\frmReporteVentas.Designer.cs",
+              "ViewState": "AgIAADYBAAAAAAAAAAAAAE0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:18:35.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frmRegistrarVenta.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Procesos\\frmRegistrarVenta.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Procesos\\frmRegistrarVenta.Designer.cs",
+              "ToolTip": "C:\\Users\\Artur\\Desktop\\SisVentas\\SisVentas\\CapaPresentacion\\Procesos\\frmRegistrarVenta.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\Procesos\\frmRegistrarVenta.Designer.cs",
+              "ViewState": "AgIAAGcBAAAAAAAAAAAuwH4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:15:55.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
